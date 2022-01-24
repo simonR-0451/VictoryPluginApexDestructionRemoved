@@ -1,3 +1,3 @@
 This is a slightly edited version of Rama's victory plugin for UE4 with all references to Apex Destruction module removed since it was having issues loading Apex Destruction in packaged games (and I don't need any features related to Apex Destruction).
 
-I recompiled the project in Visual Studio, so now this should be ready to drop into your project's 'plugins' folder.
+I recompiled the project in Visual Studio, so now this should be ready to drop into your project's 'plugins' folder. Confirmed working with UE 4.27.1
